@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GroundMotionModels>
+  <!-- This model is an example and for review purposes only -->
+  <ModelSet maxDistance="1000.0">
+    <Model id="AB_06_140BAR" weight="0.1"/>
+    <Model id="AB_06_200BAR" weight="0.1"/>
+    <Model id="CAMPBELL_03" weight="0.1"/>
+    <Model id="FRANKEL_96" weight="0.1"/>
+    <Model id="SILVA_02" weight="0.1"/>
+    <Model id="SOMERVILLE_01" weight="0.2"/>
+    <Model id="TP_05" weight="0.1"/>
+    <Model id="TORO_97_MW" weight="0.2"/>
+  </ModelSet>
+</GroundMotionModels>
