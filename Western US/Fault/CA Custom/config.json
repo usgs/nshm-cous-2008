@@ -1,3 +1,5 @@
 {
-  "ruptureFloating": "STRIKE_ONLY"
+  "model": {
+    "ruptureFloating": "STRIKE_ONLY"
+  }
 }
