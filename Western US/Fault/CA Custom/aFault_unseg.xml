@@ -170,12 +170,17 @@
     </Geometry>
   </Source>
   <Source id="-1" name="S. San Andreas">
+    <IncrementalMfd a="-2.82972051" b="0.0" mMax="7.9501" type="GR" weight="1.0"/>
+    <IncrementalMfd a="-3.13094397" b="0.0" mMax="8.150099999999998" type="GR" weight="1.0"/>
+
+    <!-- Collapsed MFDs for performance reasons
     <IncrementalMfd a="-2.827168" b="0.0" mMax="7.9501" type="GR" weight="0.5"/>
     <IncrementalMfd a="-2.8579547" b="0.0" mMax="7.9501" type="GR" weight="0.2"/>
     <IncrementalMfd a="-2.8151519" b="0.0" mMax="7.9501" type="GR" weight="0.3"/>
     <IncrementalMfd a="-3.1283915" b="0.0" mMax="8.150099999999998" type="GR" weight="0.5"/>
     <IncrementalMfd a="-3.1591783" b="0.0" mMax="8.150099999999998" type="GR" weight="0.2"/>
     <IncrementalMfd a="-3.1163752" b="0.0" mMax="8.150099999999998" type="GR" weight="0.3"/>
+    -->
     <Geometry depth="0.1" dip="86.1" rake="0.0" width="13.0">
       <Trace>
 -115.71192,33.35009,0.00000
