@@ -2,8 +2,8 @@
 <GroundMotionModels>
   <!-- This model is an example and for review purposes only -->
   <ModelSet maxDistance="200.0">
-    <Model id="AB_03_GLOB_SLAB" weight="0.25"/>
-    <Model id="AB_03_CASC_SLAB" weight="0.25"/>
+    <Model id="AB_03_GLOBAL_SLAB" weight="0.25"/>
+    <Model id="AB_03_CASCADIA_SLAB" weight="0.25"/>
     <Model id="YOUNGS_97_SLAB" weight="0.5"/>
   </ModelSet>
 </GroundMotionModels>
